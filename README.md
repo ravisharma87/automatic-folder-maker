@@ -1,2 +1,2 @@
-# automatic-folder-maker
+# Folder maker
 This program can make folders automatically you just need to give him names of the folder you want to make...

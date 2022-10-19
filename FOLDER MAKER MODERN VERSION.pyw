@@ -1,7 +1,3 @@
-'''1:use image as button
-    2:use pictures in background
-    3:make it look atractive somewhat'''
-
 from tkinter import *
 import tkinter.messagebox as msg
 import random
